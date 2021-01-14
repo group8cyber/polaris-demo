@@ -2,6 +2,7 @@ server:
   port: 3001
   basePath: ''
 application:
+# refer to https://pwning.owasp-juice.shop/part1/customization.html
   domain: polaris-demo
   name: 'Polaris Demo'
   logo: JuiceShop_Logo.png
