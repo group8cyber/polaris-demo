@@ -1,12 +1,12 @@
 server:
-  port: 3000
+  port: 3001
   basePath: ''
 application:
-  domain: juice-sh.op
-  name: 'OWASP Juice Shop'
+  domain: polaris-demo
+  name: 'Polaris Demo'
   logo: JuiceShop_Logo.png
   favicon: favicon_js.ico
-  theme: bluegrey-lightgreen # Options: bluegrey-lightgreen blue-lightblue deeppurple-amber indigo-pink pink-bluegrey purple-green deeporange-indigo
+  theme: blue-lightblue # Options: bluegrey-lightgreen blue-lightblue deeppurple-amber indigo-pink pink-bluegrey purple-green deeporange-indigo
   showVersionNumber: true
   showGitHubLinks: true
   localBackupEnabled: true
