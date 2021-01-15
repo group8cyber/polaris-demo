@@ -3,7 +3,7 @@ server:
   basePath: ''
 application:
 # refer to https://pwning.owasp-juice.shop/part1/customization.html
-  domain: polaris-demo
+  domain: polaris-demo.com
   name: 'Polaris Demo'
   logo: JuiceShop_Logo.png
   favicon: favicon_js.ico
